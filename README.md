@@ -1,12 +1,36 @@
-# Bootcamp JavaScript
+# Proyecto JavaScript – Diseño de Interiores
 
-Repositorio creado para almacenar las actividades y ejercicios realizados durante el Bootcamp de JavaScript.
+## Descripción
 
----
+Este proyecto es un script básico desarrollado en JavaScript como parte del Bootcamp de JavaScript.
+El programa muestra en la consola información sobre un proyecto de **diseño de interiores**, incluyendo datos generales, detalles y un resumen del dominio.
 
-## 📂 Estructura del proyecto
+El objetivo de la actividad es practicar conceptos básicos de programación como:
 
-```text
+* Uso de `console.log()`
+* Tipos de datos (string, number y boolean)
+* Operaciones aritméticas
+* Estructura de un script en JavaScript
+
+## Dominio del proyecto
+
+El dominio utilizado en este proyecto es **Diseño de Interiores**, donde se representa un proyecto de diseño para un espacio interior.
+
+## Información que muestra el programa
+
+El script muestra en consola:
+
+* Nombre del proyecto de diseño
+* Código identificador
+* Categoría del diseño
+* Estado del proyecto
+* Valor principal del proyecto
+* Valor calculado mediante una operación matemática
+* Estados booleanos
+* Resumen del dominio
+
+## Estructura del proyecto
+
 Alejandro-Velasco-3407187
 │
 ├── week-1
@@ -14,47 +38,19 @@ Alejandro-Velasco-3407187
 │       └── script.js
 │
 └── README.md
-```
 
----
-
-## 📖 Descripción
-
-Este repositorio contiene los ejercicios desarrollados durante el proceso de aprendizaje de JavaScript.
-En la **semana 1** se realiza un script que muestra en consola la información de un proyecto del dominio **Diseño de Interiores**.
-
-El objetivo del ejercicio es practicar:
-
-* Uso de `console.log()`
-* Tipos de datos en JavaScript
-* Operaciones aritméticas
-* Organización básica de un script
-
----
-
-## ⚙️ Cómo ejecutar el proyecto
+## Cómo ejecutar el programa
 
 1. Abrir la terminal en la carpeta del proyecto.
 2. Ejecutar el siguiente comando:
 
 ```
-node week-1/starter/script.js
+node starter/script.js
 ```
 
-3. El programa mostrará la información del proyecto en la consola.
+3. El programa mostrará en consola la información del proyecto de diseño de interiores.
 
----
-
-## 🛠 Tecnologías utilizadas
-
-* JavaScript
-* Node.js
-* Git
-* GitHub
-
----
-
-## 👨‍💻 Autor
+## Autor
 
 Alejandro Velasco
 Bootcamp JavaScript
